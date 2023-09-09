@@ -1,0 +1,7 @@
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\dados\dados\bin\Release\dados.exe.config
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\dados\dados\bin\Release\dados.exe
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\dados\dados\bin\Release\dados.pdb
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\dados\dados\obj\Release\dados.csproj.AssemblyReference.cache
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\dados\dados\obj\Release\dados.csproj.CoreCompileInputs.cache
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\dados\dados\obj\Release\dados.exe
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\dados\dados\obj\Release\dados.pdb
